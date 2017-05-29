@@ -1,0 +1,18 @@
+{
+  "name": "test-frontend",
+  "description": "",
+  "main": "/bin/www",
+  "authors": [
+    "tony <tzhu65@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}

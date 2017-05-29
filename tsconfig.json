@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "allowUnreachableCode": false,
+        "jsx": "react",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "removeComments": false,
+        "target": "es5"
+    },
+    "files": [
+        "./src/client/main/app.ts"
+    ]
+}
